@@ -1,0 +1,16 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "Mon premier projet en node",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Baraka Bigega Espoir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
